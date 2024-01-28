@@ -1,0 +1,12 @@
+td, th {
+    border: 1px solid #ddd;
+    padding: 8px;
+  }
+  
+  
+  th {
+    background-color: #ec3c3c;
+    font-weight: bold;
+  }
+
+ 
